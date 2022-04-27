@@ -28,6 +28,6 @@ public class StudentEmployee extends Student{
     }
 
     public String toString(){
-        return super.toString() + "RateOfPayPerHour: "+ rateOfPayPerHour + " EmployeeId: "+ employeeId;
+        return super.toString() + " RateOfPayPerHour: "+ rateOfPayPerHour + " EmployeeId: "+ employeeId;
     }
 }
